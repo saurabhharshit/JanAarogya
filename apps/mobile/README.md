@@ -25,5 +25,16 @@ An offline-first, multilingual rural healthcare mobile application built with Fl
 
 ---
 
+## 📥 Download App
+
+Download the latest stable release for Android directly:
+
+[![Download APK](https://img.shields.io/badge/Download-APK%20(v1.0.0)-brightgreen?style=for-the-badge&logo=android)](https://github.com/saurabhharshit/JanAarogya/releases/download/v1.0.0/app-release.apk)
+
+> **Direct Link:** [Download app-release.apk (53.1 MB)](https://github.com/saurabhharshit/JanAarogya/releases/download/v1.0.0/app-release.apk)  
+> *Compatible with Android 7.0 and above.*
+
+---
+
 ## 🔒 Proprietary Notice
 Copyright © 2026 Harshit Saurabh. All rights reserved. Unauthorized copying, distribution, or reproduction of this project and source code is strictly prohibited.
